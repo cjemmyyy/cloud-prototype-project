@@ -9,7 +9,7 @@
 This is a dynamic prototype of a web application deployed on an Ubuntu EC2 instance using Nginx as a reverse proxy to a Node.js app. The landing pag
 e features HTML/CSS with animations and showcases cloud engineering skills.
 
-##Process
+## Process
 The server was provisioned by logging into the AWS site then the EC2 dashboard and then creating an instance (this has been done before in previous
 class, so I didn't need to do that again, what I did was to allow Port 80 and Port 443 as part of the instructions.
 -For the web server setup, I started by installing Nginx using sudo apt update, then sudo apt install nginx -y
@@ -37,3 +37,6 @@ JOSHUA CHIBUISI
 - AWS EC2 (Ubuntu)
 - HTML, CSS
 
+## Live Preview
+
+![Landing Page Screenshot](<screenshot(60).png>)
