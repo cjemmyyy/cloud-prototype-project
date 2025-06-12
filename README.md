@@ -39,4 +39,4 @@ JOSHUA CHIBUISI
 
 ## Live Preview
 
-![Landing Page Screenshot](<screenshot(60).png>)
+![Landing Page Screenshot](<screenshot (60).png>)
