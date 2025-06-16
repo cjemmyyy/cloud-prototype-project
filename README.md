@@ -101,7 +101,7 @@ e features HTML/CSS with animations and showcases cloud engineering skills.
 
 ### DuckDNS Setup (Custom Subdomain)
 
-* Registered a free domain: `him.duckdns.org`
+* Registered a free domain: `jaychibuisi.duckdns.org`
 
 * Created a script to keep the IP updated:
   mkdir ~/duckdns
